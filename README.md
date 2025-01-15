@@ -5,7 +5,7 @@ I'm **Waliur Rahaman Oli**, a passionate programmer and a 2nd year Computer Scie
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on a **Real-Time Traffic Simulation** project in C++ for my Data Structures course.
 - 🌱 I’m currently learning advanced algorithms, Thevenin's theorem, and Norton's theorem.
-- 🤝 I’m looking to collaborate on **open-source projects** involving C++, Python,Java or data structures.
+- 🤝 I’m looking to collaborate on **open-source projects** involving C++, Python, Java or data structures.
 - 💡 My interests include **black holes**, **teleportation**, and **time travel**—I'm a space science enthusiast!
 - ⚡ Fun fact: I can repair some electric devices myself. 🛠️
 
