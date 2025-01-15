@@ -20,3 +20,13 @@ I'm **Waliur Rahaman Oli**, a passionate programmer and a 2nd year Computer Scie
 
 ### 🚀 Let's build something amazing together!
 Feel free to check out my repositories or drop me a message if you want to collaborate. Let's turn ideas into reality! ✨
+
+## 📊 GitHub Stats:
+![Waliur's GitHub stats](https://github-readme-stats.vercel.app/api?username=waliur-rahaman3193&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=waliur-rahaman3193&theme=onedark)
+
+## 💻 Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waliur-rahaman3193&layout=compact&theme=radical)
+
