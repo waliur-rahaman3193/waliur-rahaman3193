@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**waliur-rahaman3193/waliur-rahaman3193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Waliur Rahaman Oli**, a passionate programmer and a 2nd year Computer Science and Engineering student at Southeast University. 🚀 I'm driven by curiosity, love for learning, and building projects that make an impact.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me:
+- 🔭 I’m currently working on a **Real-Time Traffic Simulation** project in C++ for my Data Structures course.
+- 🌱 I’m currently learning advanced algorithms, Thevenin's theorem, and Norton's theorem.
+- 🤝 I’m looking to collaborate on **open-source projects** involving C++, Python,Java or data structures.
+- 💡 My interests include **black holes**, **teleportation**, and **time travel**—I'm a space science enthusiast!
+- ⚡ Fun fact: I can repair some electric devices myself. 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Skills:
+- Programming Languages: C++, Python
+- Interests: Machine Learning, Data Structures, Algorithms
+- Tools: Git, Visual Studio Code
+
+### 📫 How to reach me:
+- 💌 Email: waliurrahamanoli861@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/waliur-rahaman-oli
+
+### 🚀 Let's build something amazing together!
+Feel free to check out my repositories or drop me a message if you want to collaborate. Let's turn ideas into reality! ✨
