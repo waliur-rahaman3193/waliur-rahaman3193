@@ -3,8 +3,8 @@
 I'm **Waliur Rahaman Oli**, a passionate programmer and a 2nd year Computer Science and Engineering student at Southeast University. 🚀 I'm driven by curiosity, love for learning, and building projects that make an impact.
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on a **Real-Time Traffic Simulation** project in C++ for my Data Structures course.
-- 🌱 I’m currently learning advanced algorithms, Thevenin's theorem, and Norton's theorem.
+- 🔭 I’m currently working on a **Teleportation Simulator (Quantum Entanglement Model)** project in Java.
+- 🌱 I’m currently learning advanced algorithms, Quantum Theorem, Thevenin's theorem, and Norton's theorem.
 - 🤝 I’m looking to collaborate on **open-source projects** involving C++, Python, Java or data structures.
 - 💡 My interests include **black holes**, **teleportation**, and **time travel**—I'm a space science enthusiast!
 - ⚡ Fun fact: I can repair some electric devices myself. 🛠️
